@@ -1,0 +1,37 @@
+
+						Git Commands
+
+1). git branch
+
+2). git branch new_branch_name 
+
+3). cat .git/HEAd
+
+4). ls -la .git/refs/heads
+
+5). cat .git/refs/heads/master
+
+6). git checkout branch_name
+
+7). git commit -am "message"
+
+8). git checkout -b branch_name 
+
+9). git log --oneline
+
+10).git push -u origin branch_name
+
+11).git diff bnach1  branch2
+
+12). git merge branch_name
+
+13). git branch -d branchToDelete
+
+14). git branch --merged master
+
+15). git branch --merged
+
+16). git branch --no-merged
+
+17). git mv file-name new-name
+
